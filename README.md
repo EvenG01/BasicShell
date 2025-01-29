@@ -21,8 +21,8 @@ This is a simple shell implementation in Python that supports basic shell comman
    git clone https://github.com/EvenG01/BasicShell.git
    cd BasicShell
 
-2. **Download:**
-   Give executable file permissions(Linux)
+2. **File Permissions(Linux):**
+   ```Linux
    Type 'chmod +x basicshell.py' to give permissions.
 
 3. **Use The Shell**
