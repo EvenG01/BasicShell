@@ -26,4 +26,5 @@ This is a simple shell implementation in Python that supports basic shell comman
    Type 'chmod +x basicshell.py' to give permissions.
 
 3. **Use The Shell**
-   To run the shell, type ```python3 basicshell.py.
+  ```Run
+  To run the shell, type ```python3 basicshell.py.
