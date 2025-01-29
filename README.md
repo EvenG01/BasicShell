@@ -26,5 +26,5 @@ This is a simple shell implementation in Python that supports basic shell comman
    chmod +x basicshell.py
 
 3. **Use The Shell**
-  ```Run
-  python3 basicshell.py
+   ```Run
+   python3 basicshell.py
