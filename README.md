@@ -23,8 +23,8 @@ This is a simple shell implementation in Python that supports basic shell comman
 
 2. **File Permissions(Linux):**
    ```Linux
-   chmod +x basicshell.py
+   chmod +x shell.py
 
 3. **Use The Shell**
    ```Run
-   python3 basicshell.py
+   python3 shell.py
